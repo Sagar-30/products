@@ -13,5 +13,20 @@
 		"creationAt": "2023-11-01T04:47:15.000Z",
 		"updatedAt": "2023-11-01T04:47:15.000Z"
 	}
+}, {
+	"id": 3,
+	"title": "Small Soft Towels",
+	"price": 919,
+	"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+	"images": ["https://i.imgur.com/lVH533g.jpeg", "https://i.imgur.com/lVH533g.jpeg", "https://i.imgur.com/RQL19O6.jpeg"],
+	"creationAt": "2023-11-01T04:47:15.000Z",
+	"updatedAt": "2023-11-01T04:47:15.000Z",
+	"category": {
+		"id": 1,
+		"name": "Clothes",
+		"image": "https://i.imgur.com/imQx3Az.jpeg",
+		"creationAt": "2023-11-01T04:47:15.000Z",
+		"updatedAt": "2023-11-01T04:47:15.000Z"
+	}
 }
 ]
